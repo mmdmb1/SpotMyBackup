@@ -1,6 +1,6 @@
 config = {
-"uri":"http://localhost:8888",
-"redirect_uri":"http://localhost:8888/login.html",
+"uri": "https://spotiplaylist.mobomb.ir",
+"redirect_uri": "https://spotiplaylist.mobomb.ir/login.html",
 "client_id":"1e51ecf02d3c495b8773fc63c98214d9",
 "slowdown_import": 100,
 "slowdown_export": 100
